@@ -1,39 +1,41 @@
 # Hi, I'm Mrinal Shaurya 👋
 
-### Computer Science & Data Science Student | AI/ML Enthusiast | Builder
+### Computer Science & Data Science Student @ IIT Patna | AI/ML | Data Analytics
 
-I'm a **Computer Science & Data Analytics student at IIT Patna** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and intelligent software systems**.
+I'm a **Computer Science & Data Analytics student at the Indian Institute of Technology Patna**, interested in building practical solutions at the intersection of **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-I enjoy turning ideas into working products — from data-driven applications and analytics projects to AI systems that solve practical problems.
+I enjoy learning by building — turning ideas into working projects, experimenting with new technologies, and continuously improving my technical and problem-solving skills.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Currently Exploring
 
-- 🤖 Building **AI-powered applications and intelligent systems**
-- 📊 Exploring **Data Science, Machine Learning & Analytics**
-- 🧠 Learning more about **LLMs, RAG systems & AI engineering**
-- 💻 Strengthening my foundations in **Computer Science & Software Development**
-- 🌱 Continuously building projects that combine **data + AI + real-world applications**
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI, LLMs & RAG systems
+- 📊 Data Science & Data Analytics
+- 💻 Python & software development
+- 🔍 Building practical, data-driven applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Data
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### AI / Machine Learning
+### AI / Data Science
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-111827?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-### Data & Development
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Development
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -42,7 +44,8 @@ I enjoy turning ideas into working products — from data-driven applications an
 
 ## ⭐ Featured Projects
 
-### 🧠 DocuMind AI
+### 🧠 [DocuMind AI](https://github.com/mrinalshaurya/documind-ai)
+
 **AI-powered document intelligence system**
 
 A project focused on making documents easier to understand and interact with using modern AI techniques.
@@ -50,85 +53,67 @@ A project focused on making documents easier to understand and interact with usi
 **Focus:**  
 `Generative AI` · `RAG` · `LLMs` · `Document Intelligence` · `Python`
 
-🔗 **Repository:** [DocuMind AI](https://github.com/mrinalshaurya/documind-ai)
+🔗 [View Repository →](https://github.com/mrinalshaurya/documind-ai)
 
 ---
 
-### 📊 Blinkit Data Analysis
+### 📊 [Blinkit Data Analysis](https://github.com/mrinalshaurya/CP-iit-mandi-Blinkit)
 
-A data analytics project exploring business and sales data to extract meaningful insights and identify patterns through data-driven analysis.
+A data analytics project focused on exploring business and sales data to identify patterns, trends, and actionable insights.
 
 **Focus:**  
-`Python` · `Data Analysis` · `Visualization` · `Business Analytics`
+`Python` · `Data Analysis` · `Data Visualization` · `Business Analytics`
 
-🔗 **Repository:** [CP-iit-mandi-Blinkit](https://github.com/mrinalshaurya/CP-iit-mandi-Blinkit)
+🔗 [View Repository →](https://github.com/mrinalshaurya/CP-iit-mandi-Blinkit)
 
 ---
 
 ## 🎓 Education
 
-**Indian Institute of Technology Patna**  
-**BS — Computer Science & Data Analytics**
+### Indian Institute of Technology Patna
 
-Interested in the intersection of:
+**BS in Computer Science & Data Analytics**
 
-> **Computer Science × Data × Artificial Intelligence**
+Currently developing a strong foundation in:
+
+`Computer Science` · `Data Analytics` · `Programming` · `Statistics` · `Artificial Intelligence`
 
 ---
 
-## 📚 Currently Learning
+## 🧩 How I Learn
+
+I believe in **learning by building**.
+
+My approach is simple:
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-LLMs & RAG
-        ↓
-AI Engineering
-        ↓
-Building Real-World Products
+Learn → Build → Experiment → Break Things → Improve → Repeat
 ```
 
----
-
-## 🏗️ My Approach
-
-I believe the best way to learn technology is to **build with it**.
-
-Instead of only studying concepts, I try to turn what I learn into projects that involve:
-
-- Problem solving
-- Data analysis
-- Software development
-- AI/ML experimentation
-- System design
-- Real-world use cases
+I'm particularly interested in projects where **software, data, and AI come together to solve real problems.**
 
 ---
 
-## 📈 GitHub Journey
+## 📈 My GitHub Journey
 
-I'm continuously working on improving my:
+I'm using GitHub to document my journey through:
 
-**Code → Projects → Problem Solving → Technical Depth**
-
-Every repository is part of that journey.
+- Building real-world projects
+- Exploring new technologies
+- Improving my programming skills
+- Experimenting with AI & data
+- Sharing what I learn
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with people working in **AI, Data Science, Computer Science and technology**.
+I'm always open to connecting with students, developers, researchers, and people interested in **AI, Data Science, Computer Science, and technology**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrinalshaurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-shaurya-18a120430/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mrinalshaurya8@gmail.com)
 
 ---
 
-### 💡 *Build. Learn. Iterate. Repeat.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mrinalshaurya&style=flat-square&color=blue)
+### *Build. Learn. Iterate. Repeat.*
